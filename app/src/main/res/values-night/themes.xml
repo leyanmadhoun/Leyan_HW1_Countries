@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Leyan_HW1_Countries" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">#FF0000</item>
+        <item name="colorPrimaryVariant">#FF0000</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>

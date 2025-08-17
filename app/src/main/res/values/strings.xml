@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Leyan_HW1_Countries</string>
+    <string name="flag">Flag</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="description">Description</string>
+    <string name="confirm_delete">Delete this country?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="name">Name</string>
+    <string name="capital">Capital</string>
+
+</resources>
